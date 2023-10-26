@@ -11,3 +11,5 @@ Q3. <br>
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/be9dc3e2-8c3d-4468-85de-1944c41af6e2)
 <br>
 Q4. <br>
+
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/137a991c-78aa-4508-bb7d-eff67be0a392)
