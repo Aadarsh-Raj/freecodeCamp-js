@@ -6,6 +6,9 @@
 
 <br>
 3. Decode String -> <br>
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/46c9348c-fc81-4ae0-afe2-1d40c3a4c5f9)
+
 
 <br>
 4. Reorganize String -> <br>
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/5f2884b9-c436-48d8-86ef-97989a43b549)
