@@ -5,3 +5,5 @@
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/d69d6442-c96a-41a7-8b52-594e613da106)
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/b9841c8a-6ba8-4901-a562-3fe67e601d5c)
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/c534650e-3fa9-404f-ac4f-0620f69adac7)
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/ce002ef1-3eda-4c4e-84dd-16dcb104f44a)
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/cd1f8da9-9ef8-467e-a10c-77bad223c0cd)
