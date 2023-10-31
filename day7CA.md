@@ -1,4 +1,4 @@
-
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/bcc37fed-3be2-4e91-9d87-d5dce4216a2c)
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/5765f774-c8e8-4e56-a9e9-d9161db2ce28)
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/155e7ffb-29c0-422b-8f46-fcf6739729bd)
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/f6608678-c17f-48d2-8cbe-cf6fe2f0200e)
@@ -7,3 +7,7 @@
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/c534650e-3fa9-404f-ac4f-0620f69adac7)
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/ce002ef1-3eda-4c4e-84dd-16dcb104f44a)
 ![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/cd1f8da9-9ef8-467e-a10c-77bad223c0cd)
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/b580136c-7568-41d6-ae14-8f28b502875d)
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/d1405835-f0cb-4112-ab67-ca859b26e23e)
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/2f117b2b-103f-4e5d-824f-63ed9e31b687)
+![image](https://github.com/Aadarsh-Raj/freecodeCamp-js/assets/74525154/474db326-01c0-46e4-83bd-9251d7c4023b)
